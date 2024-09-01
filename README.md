@@ -1,8 +1,8 @@
-# Simple POC that illustrates the practical use case of basic JS concepts like debouncing, throttling, lazy loading.
+### Simple POC that illustrates the practical use case of basic JS concepts like debouncing, throttling, lazy loading.
 
 
 Search Input is debounced, you will have to scroll to bottom of page to see lazy loading of movies, by default 10 movies are fetched, and a progress bar is there which is throttled(scroll event).
-you can check it [live ](devm75.github.io/Lazy-Load-Throttle-Debounce-poc) here.
+you can check it [live ](https://www.mohandev.in/Lazy-Load-Throttle-Debounce-poc) here.
 
 
 
