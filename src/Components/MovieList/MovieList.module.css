@@ -1,0 +1,10 @@
+.outer-container {
+  padding: 48px;
+  height: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 36px;
+  justify-content: center;
+  align-items: center;
+}
