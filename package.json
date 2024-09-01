@@ -1,7 +1,7 @@
 {
   "name": "react-throttled-input",
   "version": "0.1.0",
-  "homepage": "https://devm75.github.io/react-gh-pages",
+  "homepage": "https://devm75.github.io/Lazy-Load-Throttle-Debounce-poc",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
